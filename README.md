@@ -5,7 +5,7 @@
 As part of my onboarding assignment with Zomato's BI Analytics Team, I conducted a **Restaurant Analysis** using sample data provided by the company. The goal was to uncover key insights into restaurant performance across cities, identify patterns in ratings, and provide actionable business recommendations to enhance customer satisfaction and revenue growth.
 
 This project was completed in **Power BI**, leveraging visualization and analytical techniques to extract value from the data.
-
+(Please view files attached for images of charts and descriptions)
 ---
 
 ## 🧰 Tools Used
